@@ -3,7 +3,7 @@
 ### Hi there, I'm Sam! 👋
 
 「🇬🇧」I'm a French student who is 19 years old. I'm currently studying Multimedia at the Bordeaux Montaigne University.
-I'm a Developper, a Web-Dev and an audiovisual apprentice.
+I'm a Developer, a Web-Dev and an audiovisual apprentice.
 
 ========================
 
