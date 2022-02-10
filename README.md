@@ -11,9 +11,11 @@ I'm a Developer, a Web-Dev and an audiovisual apprentice.
 Je suis Développeur, Web-Dev et apprenti en audiovisuel.
 
 ## Socials:
-<p><span style="font-weight: bold; text-decoration: underline;">Instagram: </span><a href="https://instagram.com/samuel.labagnere"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="instagram" width="40" height="40" /></a></p>
-<p><span style="font-weight: bold; text-decoration: underline;">LinkedIn: </span><a href="https://linkedin.com/in/samuel-labagnere"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a></p>
-<p><span style="font-weight: bold; text-decoration: underline;">Portofolio: </span><a href="https://samuel-labagnere.netlify.app"><img src="https://www.svgrepo.com/show/26491/internet.svg" alt="portfolio" width="40" height="40" /></a></p>
+<p align="left">
+  <a href="https://instagram.com/samuel.labagnere"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="instagram" width="50" height="50" /></a>
+  <a href="https://linkedin.com/in/samuel-labagnere"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a>
+  <a href="https://samuel-labagnere.netlify.app"><img src="https://www.svgrepo.com/show/26491/internet.svg" alt="portfolio" width="40" height="40" /></a>
+</p>
 
 ### Tools:
 <p align="left">
