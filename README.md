@@ -11,4 +11,4 @@ I'm a Developer, a Web-Dev and an audiovisual apprentice.
 Je suis Développeur, Web-Dev et apprenti en audiovisuel.
 
 ### Tools:
-<a href="https://www.w3schools.com/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="width: 40;" /></a>
+<a href="https://www.w3schools.com/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="width: 40px;" /></a>
