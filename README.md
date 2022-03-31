@@ -31,4 +31,5 @@ Je suis Développeur, Web-Dev et apprenti en audiovisuel.
   <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="40" /></a>
   <a href="https://unity.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="unity" width="40" height="40" /></a>
   <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /></a>
+  <a href="https://bulma.io/"><img src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" alt="bulma" width="40" height="40" /></a>
 </p>
