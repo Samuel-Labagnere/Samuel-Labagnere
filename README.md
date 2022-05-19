@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Sam! 👋
 
-「🇬🇧」I'm a French student who is 19 years old. I'm currently studying Multimedia at the Bordeaux Montaigne University.
-I'm a Developer, a Web-Dev and an audiovisual apprentice.
+「🇬🇧」I'm a 19 years old French student. I studied Multimedia at the Bordeaux Montaigne University and I am going to pursue my studies in web development at the University of Bordeaux.
+I'm a Web Developer and a Videographer.
 
 ========================
 
-「🇫🇷」Je suis un étudiant français de 19 ans. J'étudie actuellement le Multimédia à l'IUT Bordeaux Montaigne.
-Je suis Développeur, Web-Dev et apprenti en audiovisuel.
+「🇫🇷」Je suis un étudiant français de 19 ans. J'ai étudié le Multimédia à l'IUT Bordeaux Montaigne et je vais poursuivre mes études en développement web à l'IUT de Bordeaux.
+Je suis Développeur Web et Vidéaste.
 
 ## Socials:
 <p align="left">
@@ -32,4 +32,5 @@ Je suis Développeur, Web-Dev et apprenti en audiovisuel.
   <a href="https://unity.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="unity" width="40" height="40" /></a>
   <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /></a>
   <a href="https://bulma.io/"><img src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" alt="bulma" width="40" height="40" /></a>
+  <a href="https://wordpress.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/512px-Wordpress-Logo.svg.png?20210511042647" alt="wordpress" width="40" height="40" /></a>
 </p>
