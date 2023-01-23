@@ -33,4 +33,5 @@ Je suis Développeur Web et Vidéaste.
   <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /></a>
   <a href="https://bulma.io/"><img src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" alt="bulma" width="40" height="40" /></a>
   <a href="https://wordpress.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/512px-Wordpress-Logo.svg.png?20210511042647" alt="wordpress" width="40" height="40" /></a>
+  <a href="https://shopify.com/"><img src="https://user-images.githubusercontent.com/71769022/213996692-4d0625e8-ecae-4cd3-aa35-cffa9f3e8b1a.png" alt="Shopify" width="100" height="40" /></a>
 </p>
