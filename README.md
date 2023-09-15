@@ -2,13 +2,11 @@
 
 ### Hi there, I'm Sam! 👋
 
-「🇬🇧」I'm a 20 years old French salary-student. I studied Multimedia at the Bordeaux Montaigne University and I am currently pursuing my studies in web development at the University of Bordeaux.
-I'm a Web Developer and a Videographer.
+「🇬🇧」21 years old French web developer. I studied Multimedia at the Bordeaux Montaigne University and speciliazed in web development at the University of Bordeaux.
 
 ========================
 
-「🇫🇷」Je suis un étudiant-salarié français de 20 ans. J'ai étudié le Multimédia à l'IUT Bordeaux Montaigne et je poursuis actuellement mes études en développement web à l'IUT de Bordeaux.
-Je suis Développeur Web et Vidéaste.
+「🇫🇷」Développeur web français de 21 ans. J'ai étudié le Multimédia à l'IUT Bordeaux Montaigne et me suis spécialisé en développement web à l'IUT de Bordeaux.
 
 ## Socials:
 <p align="left">
