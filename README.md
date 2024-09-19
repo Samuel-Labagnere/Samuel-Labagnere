@@ -2,11 +2,11 @@
 
 ### Hello there, I'm Sam! 👋
 
-「🇬🇧」22 years old French web developer, primarily using Ruby On Rails. I studied Multimedia at the Bordeaux Montaigne University and speciliazed in web development at the University of Bordeaux, now pursuing a Master's degree in front-end development.
+「🇬🇧」22 years old French web developer, primarily using Ruby On Rails. I studied Multimedia at the Bordeaux Montaigne University and speciliazed in web development at the University of Bordeaux, now pursuing a Master's degree at the ECV Bordeaux also in web development.
 
 ___
 
-「🇫🇷」Développeur web français de 22 ans, utilisant principalement Ruby On Rails. J'ai étudié le Multimédia à l'IUT Bordeaux Montaigne et me suis spécialisé en développement web à l'IUT de Bordeaux, poursuivant maintenant un cursus Master en développement front-end.
+「🇫🇷」Développeur web français de 22 ans, utilisant principalement Ruby On Rails. J'ai étudié le Multimédia à l'IUT Bordeaux Montaigne et me suis spécialisé en développement web à l'IUT de Bordeaux, poursuivant maintenant un cursus Mastère à l'ECV Bordeaux également en développement web.
 
 ## Socials:
 <p align="left">
