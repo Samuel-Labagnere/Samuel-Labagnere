@@ -32,6 +32,6 @@ ___
   <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /></a>
   <a href="https://bulma.io/"><img src="https://img.icons8.com/clr-gls/512/bulma-io.png" alt="bulma" width="40" height="40" /></a>
   <a href="https://wordpress.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/512px-Wordpress-Logo.svg.png?20210511042647" alt="wordpress" width="40" height="40" /></a>
-  <a href="https://shopify.com/"><img src="https://user-images.githubusercontent.com/71769022/213996692-4d0625e8-ecae-4cd3-aa35-cffa9f3e8b1a.png" alt="Shopify" width="100" height="40" /></a>
+  <a href="https://shopify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" alt="Shopify" width="40" height="40" /></a>
   <a href="https://unity.com/"><img src="https://logolook.net/wp-content/uploads/2023/03/Unity-Emblem.png" alt="unity" width="80" height="40" /></a>
 </p>
