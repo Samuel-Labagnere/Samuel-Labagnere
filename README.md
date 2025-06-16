@@ -10,9 +10,9 @@ ___
 
 ## Socials:
 <p align="left">
-  <a href="https://instagram.com/samuel.labagnere"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="instagram" width="40" height="40" /></a>
-  <a href="https://linkedin.com/in/samuel-labagnere"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a>
-  <a href="https://samuel-labagnere.netlify.app"><img src="https://www.svgrepo.com/show/26491/internet.svg" alt="portfolio" width="40" height="40" /></a>
+  <a href="https://instagram.com/samuel.labagnere" about="_blank"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="instagram" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/samuel-labagnere" about="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a>
+  <a href="https://samuel-labagnere.netlify.app" about="_blank"><img src="https://www.svgrepo.com/show/26491/internet.svg" alt="portfolio" width="40" height="40" /></a>
 </p>
 
 ### Tools:
