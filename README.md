@@ -2,7 +2,7 @@
 
 ### Hello there, I'm Sam! 👋
 
-「🇬🇧」23 years old French Ruby On Rails web developer. I studied Multimedia at the Bordeaux Montaigne University and speciliazed in web development at the University of Bordeaux, now pursuing a Master's degree at the ECV Bordeaux also in web development.
+「🇬🇧」23 years old French Ruby On Rails web developer. I studied Multimedia at the Bordeaux Montaigne University and specialized in web development at the University of Bordeaux, now pursuing a Master's degree at the ECV Bordeaux also in web development.
 
 ___
 
