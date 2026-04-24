@@ -3,15 +3,20 @@
 ### Hello there, I'm Sam! 👋
 
 French junior Ruby on Rails web developer. \
-Started with video games and industrial programmation, now fully leaned into elegant, sustainable and well-crafted web applications.
+Started with video games and industrial programming, now fully leaned into elegant, sustainable and well-crafted web applications.
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 💼 Currently working at **poll&roll** on a **market research web app**
-- 🧠 Solid experience in **backend systems, user experience and APIs**
-- 📚 At home, I love to immerse myself into **science-fiction universes, futiristic worlds, dystopian societies or medieval fantasy settings**
+- 💼 Currently working at **Discurv** on **poll&roll**, the **automated market research SaaS platform**
+- 🧠 Strong foundation in **backend systems, complex business logic and problem solving**, with a focus on **elegant and maintainable craftsmanship**\
+→ Optimized legacy Rails controllers plagued by N+1 queries, improving performance by up to 30x\
+→ Built AI-powered features such as automation services, large-scale text translation and PowerPoint generation to streamline heavy user workflows
+- 🎨 Recently expanded into **frontend and user experience**, helping to **improving user engagement**\
+→ Migrated a 50k+ lines of code monolithic app from Bootstrap 4 to 5, improving the maintainability and consistency of the UI layer\
+→ Contributed to redesigning key forms and dashboards with a focus on clarity and user flow
+- 📚 Passionate about **science-fiction, dystopian and fantasy worlds**
 
 📫 **Find me:**
 - LinkedIn: [linkedin.com/in/samuel-labagnere](https://www.linkedin.com/in/samuel-labagnere)
